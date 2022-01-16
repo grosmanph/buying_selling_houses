@@ -53,7 +53,12 @@ To save time in coding and performing the EDA, I list the to-take steps:
 <p align="center">
   <img src="https://i.postimg.cc/JnJYHs26/avg-price-new-VSold.png"/>
 </p>
-* Houses with no basemente are **TODO**% bigger than houses with basement (total area). 
+
+* Houses with no basement are **TODO**% bigger than houses with basement (total area).
+<p align="center">
+  <img src="https://i.postimg.cc/5ygQ2M87/avg-price-basement.png"/>
+  <img src="https://i.postimg.cc/jjfWJfzJ/avg-sqft-Liv-basement.png"/>
+</p>
 * On average, houses having a waterfront view are **TODO**% more expensive. This means that in case we find a house, having a waterfront view, being sold for a price lower than the regional average price we should buy it regardless its condition. 
 
 # Business Results
