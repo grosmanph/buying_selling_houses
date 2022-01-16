@@ -56,8 +56,8 @@ To save time in coding and performing the EDA, I list the to-take steps:
 
 * Houses with no basement are 22.79% bigger than houses with a basement, considering the average square footage of the lot. Furthermore, houses having no basement are 21.73% cheaper on average. This means we can buy houses with no basement in good conditions to build a basement before selling it for a higher price.
 <p align="center">
-  <img src="https://i.postimg.cc/5ygQ2M87/avg-price-basement.png" width=470/>
-  <img src="https://i.postimg.cc/jjfWJfzJ/avg-sqft-Liv-basement.png" width=470/>
+  <img src="https://i.postimg.cc/5ygQ2M87/avg-price-basement.png" width=450/>
+  <img src="https://i.postimg.cc/jjfWJfzJ/avg-sqft-Liv-basement.png" width=450/>
 </p>
 
 * On average, houses having a waterfront view are 211.76% more expensive. This means that in case we find a house, having a waterfront view, being sold for a price lower than the regional average price we should buy it regardless of its condition. 
