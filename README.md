@@ -34,6 +34,8 @@ In this section, I make some assumptions about the dataset.
 * Prices below the regional average may indicate potential businesses
 * Potential businesses should be evaluated by: condition, cheapness
 * Selling prices might adjust according to season and location
+* No more than 12% of the house initial value will be spent in renovating it
+* For houses in good conditions, 7% of the initial value will be the top limit for expenditures with renovation.
 
 # Solution Planning
 
@@ -46,4 +48,9 @@ To save time in coding and performing the EDA, I list the to-take steps:
 5) Draw hypotheses and test them
 
 # Main Insights
+
+* New houses are not quite more expensive than houses labelled as old (Built before 1960). On average, old houses are only **TODO**% cheaper than new houses. As prices do not vary much according to the year of construction (yr_built), buying new houses gives higher profits; newer houses demand fewer expenditures.
+* Houses with no basemente are **TODO**% bigger than houses with basement (total area). 
+* On average, houses having a waterfront view are **TODO**% more expensive. This means that in case we find a house, having a waterfront view, being sold for a price lower than the regional average price we should buy it regardless its condition. 
+
   
