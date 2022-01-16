@@ -27,6 +27,19 @@ Once I have bought a house, when is the best moment to sell it and how much shou
 In this section, I make some assumptions about the dataset.
 * Prices are season-dependent and may also vary among regions (zipcode)
 * Houses built before 1960 are labelled as 'old'
-* Prices below the regional average may indicate potential business
-* Potential business should be evaluated by: condition, cheapness
+* Prices below the regional average may indicate potential businesses
+* Potential businesses should be evaluated by: condition, cheapness
 * Selling prices might adjust according to season and location
+
+# Solution Planning
+
+To save time in coding and performing the EDA, I list the to-take steps:
+
+1) Download the data from [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction)
+2) Check data types, missing values and duplicates
+3) Egineer features: `month`, `year`, `old`, `season`, `basement`
+4) Create visualizations for price variations according to: `month`-`year` (season), `zipcode` (region)
+5) Draw hypothesis and test them
+
+# Main Insights
+  
