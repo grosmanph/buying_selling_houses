@@ -39,7 +39,7 @@ To save time in coding and performing the EDA, I list the to-take steps:
 2) Check data types, missing values and duplicates
 3) Egineer features: `month`, `year`, `old`, `season`, `basement`
 4) Create visualizations for price variations according to: `month`-`year` (season), `zipcode` (region)
-5) Draw hypothesis and test them
+5) Draw hypotheses and test them
 
 # Main Insights
   
