@@ -14,11 +14,11 @@ All visualizations are available online on an application that can be accessed b
 
 Before starting coding and producing visualizations, it is convenient stating the main business questions. Since this project is business-oriented, we need to be reassured of what we are doing and where we are going.
 
-## Question 1: Which houses should we buy?
+### Question 1: Which houses should we buy?
 
 What are the residential real states we should buy, and how much should we pay?
 
-## Question 2: When should we sell?
+### Question 2: When should we sell?
 
 Once I have bought a house, when is the best moment to sell it and how much should I charge?
 
