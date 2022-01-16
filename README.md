@@ -1,14 +1,18 @@
 # House Flipping in King County, USA
 ## Using data to decide whether to buy houses, and when to sell them
 
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVwb8uOqxd9D_S0SJSo8cN3rGhRnUe1-yf_g&usqp=CAU"/>
+</p>
+
 In this challenge we are facing a question that may arise for anyone in flipping - 
 which assets should we buy and how long should we wait before selling them?
 
 !TODO! Briefly describe main results and how I got them
 
-To answer that questions, we started by downloading the public data from [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction). The dataset contains house sale prices, and many more features, for King County, which includes Seattle. It contains data from homes sold between May 2014 and May 2015. Usually, people use this dataset to build regression models for predicting house prices. Instead, since I am not interested in building any machine learning model (in this project), my approach relies on getting insights from a well-performed exploratory data analysis (EDA).
+To answer that questions, we started by downloading the public data from [ ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/harlfoxem/housesalesprediction). The dataset contains house sale prices, and many more features, for King County, which includes Seattle. It contains data from homes sold between May 2014 and May 2015. Usually, people use this dataset to build regression models for predicting house prices. Instead, since I am not interested in building any machine learning model (in this project), my approach relies on getting insights from a well-performed exploratory data analysis (EDA).
 
-All visualizations are available online on an application that can be accessed by anyone on mobile or desktop by clicking the following [link](https://dashboard-kc-hdata-pa.herokuapp.com/).
+All visualizations are available online on an application made using ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) and hosted on [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard-kc-hdata-pa.herokuapp.com/). It can be accessed by anyone on mobile or desktop.
 
 # Business Questions
 
