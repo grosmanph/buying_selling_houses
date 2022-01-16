@@ -8,7 +8,7 @@ which assets should we buy and how long should we wait before selling them?
 
 To answer that questions, we started by downloading the public data from [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction). The dataset contains house sale prices, and many more features, for King County, which includes Seattle. It contains data from homes sold between May 2014 and May 2015. Usually, people use this dataset to build regression models for predicting house prices. Instead, since I am not interested in predicting prices, my approach relies on getting insights from a well-performed data analysis (EDA).
 
-All visualizations are available online on an application that can be accessed by anyone on mobile or desktop by clicking the following (link)[https://dashboard-kc-hdata-pa.herokuapp.com/].
+All visualizations are available online on an application that can be accessed by anyone on mobile or desktop by clicking the following [link](https://dashboard-kc-hdata-pa.herokuapp.com/).
 
 # Business Questions
 
