@@ -49,8 +49,15 @@ To save time in coding and performing the EDA, I list the to-take steps:
 
 # Main Insights
 
-* New houses are not quite more expensive than houses labelled as old (Built before 1960). On average, old houses are only **TODO**% cheaper than new houses. As prices do not vary much according to the year of construction (yr_built), buying new houses gives higher profits; newer houses demand fewer expenditures.
+* New houses are not quite more expensive than houses labelled as old (Built before 1960). On average, new houses are only 3.99% more expensive than old houses. As prices do not vary much according to the year of construction (yr_built), buying new houses gives higher profits; newer houses demand fewer expenditures.
+<p align="center">
+  <img src="https://i.postimg.cc/JnJYHs26/avg-price-new-VSold.png"/>
+</p>
 * Houses with no basemente are **TODO**% bigger than houses with basement (total area). 
 * On average, houses having a waterfront view are **TODO**% more expensive. This means that in case we find a house, having a waterfront view, being sold for a price lower than the regional average price we should buy it regardless its condition. 
+
+# Business Results
+
+### Hypothesis: Houses having a waterfront view are, on average, **TODO**% more expensive.
 
   
