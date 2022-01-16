@@ -1,5 +1,5 @@
 # House Flipping in King County, USA
-## Using data to decide whether to buy for-sale houses and when should sell them
+## Using data to decide whether to buy houses, and when to sell them
 
 In this challenge we are facing a question that may arise for anyone in flipping - 
 which assets should we buy and how long should we wait before selling them?
