@@ -43,7 +43,7 @@ To save time in coding and performing the EDA, I list the to-take steps:
 
 1) Download the data from [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction)
 2) Check data types, missing values and duplicates
-3) Egineer features: `month`, `year`, `old`, `season`, `basement`
+3) Egineer features: `month`, `year`, `old`, `season`, `basement`, `to_renovate`
 4) Create visualizations for price variations according to: `month`-`year` (season), `zipcode` (region)
 5) Draw hypotheses and test them
 
@@ -83,5 +83,12 @@ At first, there is nothing wrong with thinking that way; having a basement is fo
 Having said that, if one had the chance of buying a house with no basement, in good conditions, the **business action** could be using the free space on the lot to invest in constructing new facilities before selling the house for an even higher price.
 
 ### Hypothesis 4: Houses are renovated 30 years after they were built, on average.
+As we were shown by descriptive statistics, this hypothesis does not hold at all considering the data we have on hand. According to the descriptive values (table below), houses take around 56 years to be renovated. Considering the left edge of the dispersion range (std), it is likely that a house may need to be renovated 32 years after it was built. 
+
+|                 | Mean | Std Dev | Min | Median |  Max  |
+| --------------- | ---- | ------- | --- | ------ | ----- |
+| **to_renovate** | 56.3 | 24.0    | 6.0 | 54.0   | 114.0 |
+
+These results are really important since they reassure our previous consideration that it would be more profitable to buy newer houses. Now, this **business action** has no bias; houses in good conditions, being sold at a price lower than the regional average, and having no more than 32 years since their construction, are a must-buy. These criteria indicate an excellent business opportunity, according to our assumptions.
 
 ### Hypothesis 5: House prices vary through seasons and are cheaper in winter
