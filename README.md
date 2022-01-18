@@ -67,6 +67,17 @@ To save time in coding and performing the EDA, I list the to-take steps:
 
 # Business Results
 
-### Hypothesis: Houses having a waterfront view are, on average, **TODO**% more expensive.
+### Hypothesis 1: Houses having a waterfront view are, on average, more expensive.
+Indeed, the affirmative above is true. It is reasonable saying that, considering the same region, a house having a waterfront view would cost more than a house without it. What we did not know previously, is how much more expensive it is. By performing an EDA we were able to say that houses with a waterfront view are around 210% more expensive, on average.
 
+That huge difference in prices leads us to the following possible **business action**: houses with a waterfront view being sold for a price smaller than the regional average price should be bought no matter its condition. Since this kind of house is much more expensive than ordinary houses, having the chance of buying one of them for a very low price would make us able to practice a bigger profit margin - 80%, for instance.
   
+### Hypothesis 2: Old houses are way cheaper than newer houses.
+This hypothesis is pretty much false. Our intuition would tell us that an old house, but not way too old, would cost less than a brand-new house. Counterintuitively, the EDA showed us that prices of new houses differ by around only 4% from prices of old houses. In this case, old houses are way too far from being way cheaper than newer houses.
+
+Translating it to a possible **business action**, I would say that it is more suitable choosing newer houses rather than old houses. The tiny difference in prices may not compensate possible expenditures with renovation, in case one go for an older house.
+
+### Hypothesis 3: Houses with no basement are bigger and cost less.
+At first, there is nothing wrong with thinking that way; having a basement is for sure something that increases a house's price. The bar plot above shows us that houses with no basement are 22.79% bigger than houses with a basement, considering the average square footage of the lot, and that houses having no basement are 21.73% cheaper on average.
+
+Having said that, if one had the chance of buying a house with no basement, in good conditions, the **business action** could be using the free space on the lot to invest in constructing new facilities before selling the house for an even higher price.
