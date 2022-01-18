@@ -92,3 +92,8 @@ As we were shown by descriptive statistics, this hypothesis does not hold at all
 These results are really important since they reassure our previous consideration that it would be more profitable to buy newer houses. Now, this **business action** has no bias; houses in good conditions, being sold at a price lower than the regional average, and having no more than 32 years since their construction, are a must-buy. These criteria indicate an excellent business opportunity, according to our assumptions.
 
 ### Hypothesis 5: House prices vary through seasons and are cheaper in winter
+Prices are a bit lower in winter, but as we can effortlessly notice from the bar chart below, there is no substantial season-to-season variation of house prices. Taking into account the relative deviation from one average price to another, we may not assign these small variations to climate changes caused by transitions among the seasons. More YoY data is needed to infer that.
+<p align="center">
+  <img src="https://i.postimg.cc/kXxhQmkY/avg-price-season.png"/>
+</p>
+As a **business result**, we could say that there is no preferred season to sell a house; we can sell it as soon as possible to increase the net working capital.
