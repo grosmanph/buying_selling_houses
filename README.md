@@ -81,3 +81,7 @@ Translating it to a possible **business action**, I would say that it is more su
 At first, there is nothing wrong with thinking that way; having a basement is for sure something that increases a house's price. The bar plot above shows us that houses with no basement are 22.79% bigger than houses with a basement, considering the average square footage of the lot, and that houses having no basement are 21.73% cheaper on average.
 
 Having said that, if one had the chance of buying a house with no basement, in good conditions, the **business action** could be using the free space on the lot to invest in constructing new facilities before selling the house for an even higher price.
+
+### Hypothesis 4: Houses are renovated 30 years after they were built, on average.
+
+### Hypothesis 5: House prices vary through seasons and are cheaper in winter
