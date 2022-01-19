@@ -5,14 +5,20 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVwb8uOqxd9D_S0SJSo8cN3rGhRnUe1-yf_g&usqp=CAU"/>
 </p>
 
+# Abstract
+I delivered here a complete data-driven business plan. By parametrizing what is deemed as "good business", it was possible to create indicators of houses well-suited for maximizing profits with flipping. The main insights gotten from the exploratory data analysis reassured some hypotheses and pointed out new ways of doing business.
+
+# Introduction
+House flipping is when someone buys a property and holds onto it for a short time and then sells it (the flip part) in the hopes of making a profit. Instead of buying a home to live in, you’re buying a home as a real estate investment.
+
+Sometimes, flipping a house means the temporary owner has to make a lot of repairs or renovations, and other times it’s owning the property until you can sell it for more than you paid for it, plus whatever you put in to fix it up. The goal is to buy low and sell high, invest your own sweat equity to cut costs and earn a profit in a relatively short amount of time — usually within months or a year
+
 In this challenge we are facing a question that may arise for anyone in flipping - 
 which assets should we buy and how long should we wait before selling them?
 
-!TODO! Briefly describe main results and how I got them
+To answer the business questions, we started by downloading the public data from [ ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/harlfoxem/housesalesprediction). The dataset contains house sale prices, and many more features, for King County, which includes Seattle. It contains data from homes sold between May 2014 and May 2015. Usually, people use this dataset to build regression models for predicting house prices. Instead, since I am not interested in building any machine learning model (in this project), my approach relies on getting insights from a well-performed exploratory data analysis (EDA).
 
-To answer that questions, we started by downloading the public data from [ ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/harlfoxem/housesalesprediction). The dataset contains house sale prices, and many more features, for King County, which includes Seattle. It contains data from homes sold between May 2014 and May 2015. Usually, people use this dataset to build regression models for predicting house prices. Instead, since I am not interested in building any machine learning model (in this project), my approach relies on getting insights from a well-performed exploratory data analysis (EDA).
-
-All visualizations are available online on an application made using ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) and hosted on [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard-kc-hdata-pa.herokuapp.com/). It can be accessed by anyone on mobile or desktop.
+All visualizations are available online on an application made using ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) and hosted on [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard-kc-hdata-pa.herokuapp.com/). It can be accessed by anyone on mobile or desktop. Click [here](https://dashboard-kc-hdata-pa.herokuapp.com/) to be redirected.
 
 # Business Questions
 
@@ -96,4 +102,19 @@ Prices are a bit lower in winter, but as we can effortlessly notice from the bar
 <p align="center">
   <img src="https://i.postimg.cc/kXxhQmkY/avg-price-season.png"/>
 </p>
-As a **business result**, we could say that there is no preferred season to sell a house; we can sell it as soon as possible to increase the net working capital.
+
+As a **result**, we could say that there is no preferred season to sell a house; we can sell it as soon as possible to increase the net working capital.
+
+# Concluding Remarks
+
+I delivered here a complete data-driven business plan that makes the action of identifying potential business opportunities from a wide range of possibilities scalable and unbiased. By parametrizing what is deemed as "*good business*", it was possible to create indicators of houses well-suited for maximizing profits in flipping. Further, by making assumptions about the main features involved in the case, I outlined a solution planning that saved me time and gave me the right directions to search for answers. The main insights gotten from the exploratory data analysis reassured some hypotheses and pointed out new ways of doing business, as we did with houses having a waterfront view or houses with a basement, for example.
+
+The created solution also provides a user-friendly interactive online application that can be accessed by anyone on mobile or desktop, which makes our solution reliable, accessible, shareable, and easy to reach. From that application, I could visualize descriptive statistics from a variety of features like central tendencies of prices, dispersive metrics for the number of bedrooms, and much more. All the assertive visualizations made the processes of decision-making and business planning faster and less biased. 
+
+As a major result, according to the assumptions made for this solution, this project forecasts 23% of profit, which amounts to 457410805.18 USD.
+
+# Possible Next Steps
+
+* Make a list of priority criteria to organize the houses pointed as potential businesses in order of "*should-buy-ASAP*".
+* Creating a machine learning model to predict the price of a house according to its relevant features.
+* Creating a machine learning model to, given a set of features like price, # of bedrooms, etc., classify the area where a house should be built.
