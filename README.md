@@ -1,5 +1,5 @@
 # House Flipping in King County, USA
-## Using data to decide whether to buy houses, and when to sell them
+## Using data to decide whether to buy a house, and when to sell it
 
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVwb8uOqxd9D_S0SJSo8cN3rGhRnUe1-yf_g&usqp=CAU"/>
