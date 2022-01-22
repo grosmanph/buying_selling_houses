@@ -118,3 +118,4 @@ As a major result, according to the assumptions made for this solution, this pro
 * Make a list of priority criteria to organize the houses pointed as potential businesses in order of "*should-buy-ASAP*".
 * Creating a machine learning model to predict the price of a house according to its relevant features.
 * Creating a machine learning model to, given a set of features like price, # of bedrooms, etc., classify the area where a house should be built.
+* Build a recommender system
