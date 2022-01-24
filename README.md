@@ -5,7 +5,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVwb8uOqxd9D_S0SJSo8cN3rGhRnUe1-yf_g&usqp=CAU"/>
 </p>
 
-# Abstract
+# Summary
 I delivered here a complete data-driven business plan. By parametrizing what is deemed as "good business", it was possible to create indicators of houses well-suited for maximizing profits with flipping. The main insights gotten from the exploratory data analysis reassured some hypotheses and pointed out new ways of doing business.
 
 # Introduction
