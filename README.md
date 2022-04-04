@@ -16,9 +16,9 @@ Sometimes, flipping a house means the temporary owner has to make a lot of repai
 In this challenge we are facing a question that may arise for anyone in flipping - 
 which assets should we buy and how long should we wait before selling them?
 
-To answer the business questions, we started by downloading the public data from [ ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/harlfoxem/housesalesprediction). The dataset contains house sale prices, and many more features, for King County, which includes Seattle. It contains data from homes sold between May 2014 and May 2015. Usually, people use this dataset to build regression models for predicting house prices. Instead, since I am not interested in building any machine learning model (in this project), my approach relies on getting insights from a well-performed exploratory data analysis (EDA).
+To answer the business questions, we started by downloading the public data from ![Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction). The dataset contains house sale prices, and many more features, for King County, which includes Seattle. It contains data from homes sold between May 2014 and May 2015. Usually, people use this dataset to build regression models for predicting house prices. Instead, since I am not interested in building any machine learning model (in this project), my approach relies on getting insights from a well-performed exploratory data analysis (EDA).
 
-All visualizations are available online on an application made using ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) and hosted on [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard-kc-hdata-pa.herokuapp.com/). It can be accessed by anyone on mobile or desktop. Click [here](https://dashboard-kc-hdata-pa.herokuapp.com/) to be redirected.
+All visualizations are available online on an application made using **Streamlit**. It can be accessed by anyone on mobile or desktop. Click [here](https://share.streamlit.io/grosmanph/buying_selling_houses/main/st_dashboard.py) to be redirected.
 
 # Business Questions
 
